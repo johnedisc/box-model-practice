@@ -28,3 +28,6 @@
 
 	windows + alt + j == open console
 
+## HOT KEYS
+
+    * en vim seleccionar caracteres y toca NUMERO + '>' para hacer tab a un grupo de caracteres
