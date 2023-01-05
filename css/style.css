@@ -1,0 +1,22 @@
+html {
+	font-family: 'Rubik', sans-serif;
+}
+
+div {
+	border: 2px solid green;	
+	background-color: orange;
+}
+
+.boxClass {
+	width: 50%;
+	padding: 10px 10px 10px 10px;
+	box-sizing: border-box;
+	margin-bottom: 5px;
+}
+
+.boxClass2 {
+	width: 50%;
+	padding: 10px;
+	margin-top: 5px;
+	box-sizing: border-box;
+}
